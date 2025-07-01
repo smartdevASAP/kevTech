@@ -1,0 +1,89 @@
+<div className="mt-16 ">
+  <h1 className="text-2xl font-bold text-gray-600 mb-12">Pricing</h1>
+  {/* grid container */}
+  <div className="md:grid md:grid-cols-2 lg:grid-cols-3 space-y-5 gap-5">
+    <div className="bg-white p-2 shadow-primary shadow-sm rounded-sm">
+      <p className="text-gray-400 mt-4 ">Starter</p>
+      <h1 className="font-bold lg:text-3xl mb-2 text-2xl text-primary">
+        sh9,999
+      </h1>
+      <p className="text-gray-700 mb-4 text-xsm">
+        The best package for small-scale sized enterprises{" "}
+      </p>
+      <div className="ml-6 ">
+        <small className="flex gap-2 items-center">
+          <img src="{obj.check}" className="h-6" alt="" /> 1–3 Page Custom
+          Website
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          {" "}
+          <img src="{obj.check}" className="h-6" alt="" />
+          Mobile Responsive Design
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          {" "}
+          <img src="{obj.check}" className="h-6" alt="" />
+          Contact Form Integration
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          {" "}
+          <img src="{obj.check}" className="h-6" alt="" />
+          Basic SEO Setup
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          <img src="{obj.check}" className="h-6" alt="" /> 1 Week Support After
+          Launch  💰 <br />
+          Affordable & Fast Setup
+        </small>
+        <br />
+      </div>
+    </div>
+    <div className="bg-indigo-500">
+      <p className="text-gray-400 mt-4 ">Premium</p>
+      <h1 className="font-bold lg:text-3xl mb-2 text-2xl text-primary">
+        sh99,999
+      </h1>
+      <p className="text-gray-700 mb-4 text-xsm">
+        Ideal for growing businesses ready to scale digitally.
+      </p>
+      <div className="ml-6 ">
+        <small className="flex gap-2 items-center">
+          <img src="{obj.check}" className="h-6" alt="" /> 5–15 Page Custom
+          Website
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          {" "}
+          <img src="{obj.check}" className="h-6" alt="" />
+          Enhanced UI/UX Design
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          {" "}
+          <img src="{obj.check}" className="h-6" alt="" />
+          E-commerce Functionality (optional)
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          {" "}
+          <img src="{obj.check}" className="h-6" alt="" />
+          SEO Optimization + Analytics Setup
+        </small>
+        <br />
+        <small className="flex gap-2 items-center">
+          <img src="{obj.check}" className="h-6" alt="" />1-Month Free
+          Maintenance
+        </small>
+      </div>
+    </div>
+  </div>
+  ); } export default Pricing;
+</div>
+Full Website or Web App (custom specs) POS / Property / Inventory System
+Business Email Setup Advanced SEO + Automation Tools API Integrations + Custom
+Dashboards 3 Months Free Support & Maintenance  💰 Total Business Digital
+Transformation
