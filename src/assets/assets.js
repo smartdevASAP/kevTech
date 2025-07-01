@@ -1,7 +1,7 @@
 import logo from "./logo.png";
 import menu from "./menu.png";
 import GIF from "./GIF.png";
-import ellipse from "./ellipse.png";
+// import ellipse from "./ellipse.png";
 import clip from "./clip.png";
 import avatar from "./avatar.svg";
 import arrow from "./arrow.png";
@@ -20,7 +20,7 @@ export const obj = {
   logo,
   menu,
   GIF,
-  ellipse,
+  // ellipse,
   clip,
   arrow,
   avatar,
