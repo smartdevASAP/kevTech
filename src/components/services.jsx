@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../card";
-import { services } from "../assets/assets";
+import { services } from "../assets/assets.js";
 function Services() {
   return (
     <div>
