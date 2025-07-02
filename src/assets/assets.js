@@ -12,10 +12,10 @@ import explore2 from "./explore(2).png";
 import check from "./check.png";
 import checkSec from "./checkSec.png";
 import globe from "./globe.png";
-import Services1 from "./Services1.png";
-import Services2 from "./Services2.png";
-import Services3 from "./Services3.png";
-import Services4 from "./Services4.png";
+import Services1 from "./services1.png";
+import Services2 from "./services2.png";
+import Services3 from "./services3.png";
+import Services4 from "./services4.png";
 export const obj = {
   logo,
   menu,
